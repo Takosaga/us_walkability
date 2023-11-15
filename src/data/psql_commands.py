@@ -14,4 +14,5 @@ def commands():
         conn.close()
 
 
-commands()
+if __name__ == "__main__":
+    commands
