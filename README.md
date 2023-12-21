@@ -1,7 +1,12 @@
-us_walkability
+US walkability
 ==============================
 
 A data science project to visualize walkability from hotels in US cities
+
+Open mvp/prototype
+<a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Project Organization
 ------------
