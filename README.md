@@ -1,12 +1,17 @@
 US walkability
 ==============================
 
-A data science project to visualize walkability from hotels in US cities
+A data science project to visualize walkability from hotels in US cities.
 
 Open mvp/prototype
 <a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Why?
+==============================
+In the EU sometimes it can be taken for granted that you can walk or take public transit, in the US you assume you get around everywhere with a car.
+I want to make something visual to show there is some places in the US that you can get around without a car.
 
 Project Organization
 ------------
