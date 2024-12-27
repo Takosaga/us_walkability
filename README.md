@@ -1,17 +1,60 @@
-US walkability
-==============================
 
-A data science project to visualize walkability from hotels in US cities.
+# DC Walkability Analysis
 
 Open mvp/prototype
 <a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Why?
-==============================
-In the EU sometimes it can be taken for granted that you can walk or take public transit, in the US you assume you get around everywhere with a car.
-I want to make something visual to show there is some places in the US that you can get around without a car.
+## Overview
+This data science project analyzes walkability metrics across Washington D.C. using Walk Score data. The analysis combines transportation accessibility metrics including walk scores, transit scores, and bike scores to provide insights into urban mobility patterns.
+
+## Features
+- Geospatial visualization of walkability metrics using interactive maps
+- Statistical analysis of correlations between different mobility scores
+- Regression modeling to understand factors influencing Walk Scores
+- Analysis of neighborhood amenities (dining, shopping, parks) impact on walkability
+
+## Technical Stack
+- Python
+- Key Libraries:
+ - pandas: Data manipulation and analysis
+ - plotly: Interactive geospatial visualizations 
+ - seaborn/matplotlib: Statistical visualizations
+ - scikit-learn: Machine learning model preparation
+ - statsmodels: Statistical modeling
+
+## Key Findings
+- Strong correlation between different mobility scores (walk, transit, bike)
+- Significant impact of amenities (grocery, shopping, dining) on overall Walk Scores
+- Spatial patterns in walkability across DC neighborhoods
+- Statistical relationships between infrastructure metrics and walkability
+
+## Future Development
+- API integration for real-time data collection:
+ - Walk Score API
+ - Google Places API for location data
+ - Geocoding services
+- Cloud database implementation for scalable data storage
+- Expanded analysis across multiple cities
+
+## Data Source
+Sample data provided by [Walk Score](https://www.walkscore.com/professional/research.php) for Washington D.C.
+
+## Business Applications
+- Urban planning and infrastructure development
+- Real estate investment analysis
+- Comparative city analysis
+- Public transportation planning
+
+## Getting Started
+1. Clone the repository
+2. Install required dependencies: pandas, plotly, seaborn, sklearn, statsmodels
+3. Set up necessary API keys for map visualizations
+4. Run the Jupyter notebook to reproduce the analysis
+
+## Contact
+[Your contact information]
 
 Project Organization
 ------------
