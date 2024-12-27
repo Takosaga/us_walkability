@@ -47,14 +47,7 @@ Sample data provided by [Walk Score](https://www.walkscore.com/professional/rese
 - Comparative city analysis
 - Public transportation planning
 
-## Getting Started
-1. Clone the repository
-2. Install required dependencies: pandas, plotly, seaborn, sklearn, statsmodels
-3. Set up necessary API keys for map visualizations
-4. Run the Jupyter notebook to reproduce the analysis
 
-## Contact
-[Your contact information]
 
 Project Organization
 ------------
