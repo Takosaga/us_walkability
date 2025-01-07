@@ -23,7 +23,7 @@ This data science project analyzes walkability metrics across Washington D.C. us
  - seaborn/matplotlib: Statistical visualizations
  - scikit-learn: Machine learning model preparation
  - statsmodels: Statistical modeling
-
+![](https://github.com/Takosaga/us_walkability/blob/main/reports/figures/DC%20transitscore.png)
 ## Key Findings
 - Strong correlation between different mobility scores (walk, transit, bike)
 - Significant impact of amenities (grocery, shopping, dining) on overall Walk Scores
